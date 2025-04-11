@@ -1,0 +1,11 @@
+2025-04-03 05:07:03,308 - ERROR - Failed to initialize Binance Futures API: Testnet API credentials are missing
+2025-04-03 05:11:39,544 - ERROR - Failed to initialize Binance Futures API: Binance API credentials are missing. Please add them to credentials.py
+2025-04-03 05:12:04,779 - ERROR - Failed to initialize Binance Futures API: Binance API credentials are missing. Please add them to credentials.py
+2025-04-03 05:16:51,923 - ERROR - Failed to initialize Binance Futures API: Binance API credentials are missing. Please add them to credentials.py
+2025-04-03 05:22:40,532 - INFO - Successfully connected to Binance Futures API
+2025-04-03 05:22:57,875 - ERROR - ERROR in set_leverage: (401, -2014, 'API-key format invalid.', {'Date': 'Thu, 03 Apr 2025 02:22:57 GMT', 'Content-Type': 'application/json', 'Content-Length': '46', 'Connection': 'keep-alive', 'Server': 'Tengine', 'x-mbx-used-weight-1m': '7', 'x-response-time': '0ms', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS'})
+2025-04-03 05:24:32,498 - INFO - Successfully connected to Binance Futures API
+2025-04-03 05:29:36,166 - INFO - Successfully connected to Binance Futures API
+2025-04-03 05:32:28,173 - INFO - Successfully connected to Binance Futures API
+2025-04-03 05:37:28,420 - INFO - Successfully connected to Binance Futures API
+2025-04-03 05:37:52,515 - ERROR - ERROR in set_leverage: (401, -2014, 'API-key format invalid.', {'Date': 'Thu, 03 Apr 2025 02:37:52 GMT', 'Content-Type': 'application/json', 'Content-Length': '46', 'Connection': 'keep-alive', 'Server': 'Tengine', 'x-mbx-used-weight-1m': '139', 'x-response-time': '0ms', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS'})
